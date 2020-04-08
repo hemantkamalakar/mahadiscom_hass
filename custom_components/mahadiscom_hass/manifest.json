@@ -1,0 +1,10 @@
+{
+    "domain": "mahadiscom_hass",
+    "name": "MahaDiscom Energy Bill",
+    "documentation": "https://github.com/custom-components/mahadiscom_hass",
+    "dependencies": [],
+    "codeowners": ["@hemantkamalakar"],
+    "requirements": [
+      "integrationhelper==0.1.0"
+    ]
+  }

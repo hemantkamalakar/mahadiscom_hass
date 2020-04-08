@@ -1,0 +1,1 @@
+"""mahadiscom_hass integration."""
