@@ -1,10 +1,13 @@
 {
-    "domain": "mahadiscom_hass",
-    "name": "MahaDiscom Energy Bill",
-    "documentation": "https://github.com/hemantkamalakar/mahadiscom_hass",
-    "dependencies": [],
-    "codeowners": ["@hemantkamalakar"],
-    "requirements": [
-      "integrationhelper==0.1.0"
-    ]
-  }
+  "domain": "mahadiscom_hass",
+  "name": "MahaDiscom Energy Bill",
+  "version": "0.2.0",
+  "documentation": "https://github.com/hemantkamalakar/mahadiscom_hass",
+  "dependencies": [],
+  "codeowners": ["@hemantkamalakar", "@ron4stoppable"],
+  "requirements": [
+    "integrationhelper==0.1.0"
+  ],
+  "loggers": ["MAHAHASS"],
+  "iot_class": "local_polling"
+}
